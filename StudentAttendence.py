@@ -7,9 +7,9 @@ import cv2
 
 #Credentials----------------------------------------------------------------------------------
 client = boto3.client('rekognition',
-                   aws_access_key_id="AKIAWAO3KXHWQAXPFSQZ",
+                    aws_access_key_id="AKIAWAO3KXHWQAXPFSQZ",
                     aws_secret_access_key="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",
-                       aws_session_token="FwoGZXIvYXdzECEaDIYUDFobtJnX2oDJVCLBAYop3p7T11dVZL/rjE4nmQQNBQEgYMSXua9XMWaiSGT1v1Giv0j4Txt0883Mrmz4zAlN2RAfXPk4QK6MxHEuEamQ3U4AgrZ4qA4AVv+uvMuGLWmVPwqUk/uK61R/kE3cNN5Bs3qzWYOzZ22z1RB8IT8YDxS81Wz5tZT/rRBXEGODdV6oIR8LIYixYoyBfl3hPWxTpqS/IrOzTcFnFbuoLYZQvLH2IGzf087tsV2bL56CoX62V9eAbv8VORF1RlGowgIouvqB/AUyLXdmJoVk+HOLePDbLDlYvDU3e7po7lEVq9DW+Aa3vDoqnjqqCEy3WjQtPj8N5Q==",
+                    #   aws_session_token="FwoGZXIvYXdzECEaDIYUDFobtJnX2oDJVCLBAYop3p7T11dVZL/rjE4nmQQNBQEgYMSXua9XMWaiSGT1v1Giv0j4Txt0883Mrmz4zAlN2RAfXPk4QK6MxHEuEamQ3U4AgrZ4qA4AVv+uvMuGLWmVPwqUk/uK61R/kE3cNN5Bs3qzWYOzZ22z1RB8IT8YDxS81Wz5tZT/rRBXEGODdV6oIR8LIYixYoyBfl3hPWxTpqS/IrOzTcFnFbuoLYZQvLH2IGzf087tsV2bL56CoX62V9eAbv8VORF1RlGowgIouvqB/AUyLXdmJoVk+HOLePDbLDlYvDU3e7po7lEVq9DW+Aa3vDoqnjqqCEy3WjQtPj8N5Q==",
                       region_name='ap-south-1')
 
 
