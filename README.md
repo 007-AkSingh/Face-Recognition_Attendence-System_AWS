@@ -1,1 +1,13 @@
 # Face-Recognition_Attendence-System_AWS
+# Trainig and Internship Project
+# AWS CLOUD PLATFORM
+# PYTHON
+# AWS SERVICES
+AMAZON REKOGNITION
+LAMBDA
+API GATEWAY
+SNS (SIMPLE NOTIFICATION SERVICE)
+IAM
+S3
+DYNAMO DB
+Python boto3 library
